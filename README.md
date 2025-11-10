@@ -21,6 +21,34 @@ The goal is to identify which acquisition sources are the most efficient and pro
 **ROMI**: Ratio of revenue generated to marketing spend (LTV / Cost).
 **Conversion Time**: Average number of time (days) users take to becomme customers.
 
+## Key Visualizations
+
+### Session Duration per User
+![Session Duration](figures/hist_duration_session_user.png)
+
+### Conversion Time per Cohort
+![Conversion per Cohort](figures/conversion_time_per_cohort.png)
+
+### Average Time of Conversion per Marketing Source 
+![Time of Conversion per Marketing Source](figures/conversion_time_marketing_channel.png)
+
+### Conversion Time by Marketing Channel
+![Conversion Time by Channel](figures/conversion_by_channel.png)
+
+### Purchases per Month
+![Puchases per Month](figures/purchases_per_month.png)
+
+### Life Time Value per Cohort 
+![LTV per Cohort](figures/ltv_cohorts.png)
+
+### Life Time Value per Marketing Channel
+![LTV per Marketing Channel](figures/ltv_marketing_channel.png)
+
+### Life Time Value per Device
+![LTV per Device](figures/ltv_device.png)
+
+### Return of Marketing Investment
+![Romi per Marketing Source](figures/romi_marketing_source.png)
 
 
 
