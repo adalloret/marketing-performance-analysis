@@ -4,12 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from google.colab import drive
-drive.mount('/content/drive')
-
-visits = pd.read_csv('/content/drive/My Drive/datasets/visits_log_us.csv')
-orders = pd.read_csv('/content/drive/My Drive/datasets/orders_log_us.csv')
-costs = pd.read_csv('/content/drive/My Drive/datasets/costs_us.csv')
+visits = pd.read_csv('visits_log_us.csv')
+orders = pd.read_csv('orders_log_us.csv')
+costs = pd.read_csv('costs_us.csv')
 
 visits['End Ts'] = pd.to_datetime(visits['End Ts'])
 visits['Start Ts'] = pd.to_datetime(visits['Start Ts'])
