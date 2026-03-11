@@ -8,7 +8,7 @@ The goal is to identify which acquisition sources are the most efficient and pro
 - Calculate CAC, LTV and ROMI by channel.
 - Provide insights and recommendations for oprimizing marketing investment.
 
-## Techonologies Used
+## Technologies Used
 - Python
 - Pandas
 - Seaborn
