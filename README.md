@@ -3,10 +3,10 @@ This project analyzes the performance o multiple marketing sources through busin
 The goal is to identify which acquisition sources are the most efficient and profitable, supporting data-driven marketing decisions. 
 
 ## Objectives
-- Analyze user behaviour across sessions, cohorts and purchase frequency
-- Measure conversion times and indentify the fastest-performing marketing channels.
-- Calculate CAC, LTV and ROMI by channel.
-- Provide insights and recommendations for oprimizing marketing investment.
+- Analyzed user behaviour across sessions, cohorts, and purchase frequency
+- Measured conversion times and identify the fastest-performing marketing channels.
+- Calculated CAC, LTV and ROMI by channel.
+- Provided insights and recommendations for optimizing marketing investment.
 
 ## Technologies Used
 - Python
